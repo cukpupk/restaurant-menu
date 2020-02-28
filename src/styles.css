@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .sideMenu {
+    display: flex;
+  }
+  .right {
+    margin-right: 15%;
+  }
+  table {
+    border: 1px solid black;
+  }
+  
